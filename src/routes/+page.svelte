@@ -1,6 +1,6 @@
 <section>
-    <div class="nav justify-center absolute text-3xl">
-        <img src="logo.png" alt="logo" />
+    <div class="nav justify-center absolute text-9xl ">
+        <img src="favicon.png" alt="logo" />
         <p>ABOUT</p>
         <p>CONTACT</p>
     </div>
